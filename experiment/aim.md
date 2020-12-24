@@ -1,1 +1,1 @@
-### Aim of the experiment
+To understand Strings in Python Programming Language

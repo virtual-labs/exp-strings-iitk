@@ -379,24 +379,22 @@
                 </ul>
                 <div class="collapse navbar-collapse" id="collapse-1">
                     <ul class="nav navbar-nav navbar-right" id="bs">
+
+                        <li><a href="./index.html" style="font-family:  Ubuntu;">Back</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </div>
-    <div class="side" style="margin-top: 8em;float: right;">
-        <a href="concatenation.html" style="font-family:  Ubuntu;"><button class="btn btn-primary">Concatenate</button></a>
-        <a href="slicing.html" style="font-family:  Ubuntu;"><button class="btn btn-primary">Slicing</button></a>
-        <a href="reverse.html" style="font-family:  Ubuntu;"><button class="btn btn-primary">Reverse</button></a>
-        <a href="repeat.html" style="font-family:  Ubuntu;"><button class="btn btn-primary">Repeation</button></a>
-    </div>
     <div class="container-fluid">
         <div class="straight">
             <div class="block1" style="margin-top: 9em;">
                 <div class="header1">Demonstration</div><br> <br><br>
-                <label>Demonstrate the position of a character by defining proper index.</label><br>
+                <label>Demonstrate how stings concate with each other.</label><br>
                 <input type="text" class="form-control input-sm" id="input1" placeholder="Enter the String">
-                <input type="text" class="form-control input-sm" id="input_2" placeholder="Enter the index">
+                <input type="text" class="form-control input-sm" id="input_2" placeholder="Enter the another">
+                <input type="text" class="form-control input-sm" id="input_3" placeholder="Enter the String[optional]">
+
                 <br>
                 <div class="tn">
                     <button class="btn btn-default" id="btn_1">Start</button><br><br>
@@ -410,8 +408,10 @@
             <div class="header2">Step Execute</div>
             <div class="step1" id="step" style="display:none;text-align:left;"><br><br><b>
 <p id="1">s = input("Enter the String :")</p>
-    <p id="2">start = input("Starting Index :")</p>
-    <p id="3">print("The Indexed String is :",s[start])</p>
+		<p id="2">s1 = input("Enter a String :")</p>
+		<p id="3">s2 = input("[Optional]Enter a String :")</p>
+		<p id="4">print(s + s1)</p>
+		<p id="5">print(s +s1 +s2)</p>
 </b>
             </div>
         </div>
@@ -419,13 +419,12 @@
         <div class="block4">
             <div class="header3">Result</div>
             <b>
-  <p id="res_1" style="display:none;">The Indexed String is :</p>
-    <p id="res_2"></p>
+ <p id="res_1" style="display:none;">The Concatenated String is :</p>
+		<p id="res_2"></p>
   </b>
         </div>
     </div>
-
-    <script src="js/string.js"></script>
+    <script src="js/string_concat.js"></script>
 </body>
 
 </html>
