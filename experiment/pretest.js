@@ -90,6 +90,18 @@
 
   const myQuestions = [
     {
+        question: "What is the output of the following code?[C] str1='Virtual PythonLab' str1[3]= 's' print(str1) ? ",
+        answers: {
+        a: "Virtual Python Lab",                  ///// Write the option 1 inside double quotes
+        b: "Virtual",                  ///// Write the option 2 inside double quotes
+        c: "Error",                  ///// Write the option 3 inside double quotes
+        d: "Virsual Python Lab"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+      },
+  
+   
+    {
     question: " What is the Output of the given string \
   str1='Virtual'\
 str2='Python'\
@@ -158,8 +170,6 @@ buildQuiz();
 // on submit, show results
 submitButton.addEventListener("click", showResults);
   }) ();
-
-
   /////////////////////////////////////////////////////////////////////////////
 
   /////////////////////// Do not modify the above code ////////////////////////
