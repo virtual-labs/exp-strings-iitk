@@ -100,11 +100,7 @@
       correctAnswer: "c"                ///// Write the correct option inside double quotes
       },   
     {
-    question: "What is the Output of the given string\
-  str1='Virtual'\
-str2='Python'\
-str3=str1 + str2\
-print(len(str3))",  ///// Write the question inside double quotes
+    question: "What is the Output of the given string str1='Virtual' str2='Python' str3=str1 + str2 print(len(str3))",  ///// Write the question inside double quotes
   answers: {
   a: "10 ",                  ///// Write the option 1 inside double quotes
     b: "11",                  ///// Write the option 2 inside double quotes
@@ -148,7 +144,7 @@ correctAnswer: "d"                ///// Write the correct option inside double q
           d: "String"
   },
   correctAnswer: "d"
-},
+}
 
   ];
 
