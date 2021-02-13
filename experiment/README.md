@@ -59,14 +59,11 @@ It will return 11.<br>
 
 ### Pre Test
 
-### Pre Test
-
 1. Q.1 What is the output of the following code?
    str1="Virtual PythonLab"
    str1[3]='s'
    print(str1)
-
- <br>
+   <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;Virtual Python Lab
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;Virtual
@@ -77,11 +74,11 @@ It will return 11.<br>
                         <br>
                         <p id = "p1"></p>
                         <br>
- 2. What is the output of given string??
- str1="Virtual"
-str2="Python"
-str3=str1+str2
-print(len(str3))
+2. What is the output of given string??
+   str1="Virtual"
+   str2="Python"
+   str3=str1+str2
+   print(len(str3))
                         <br>
                         A. <input type="radio" name="but2" id="rb21" onclick="click2();">&nbsp;10
                         <br>
@@ -107,19 +104,19 @@ print(len(str3))
                         <p id = "p4"></p>
                         <br>
 4. What is th output of "virtual"+1+2+"python"
-<br>
+                        <br>
                         A. <input type="radio" name="but3" id="rb31" onclick="click3();">&nbsp;vitual3python
                         <br>
                         B. <input type="radio" name="but3" id="rb32" onclick="click3();">&nbsp;Error
                         <br>
                         C. <input type="radio" name="but3" id="rb33" onclick="click3();">&nbsp;virtual12python
- <br>
-                        D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;virtual python
+                        <br>
+                        D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;virtualpython
                          <br><br>
                         <p id = "p3"></p>
                         <br>
 5. 5 If y="123"what will be the the return type of type(y)?
- <br>
+                        <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;str
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;int
@@ -133,8 +130,6 @@ print(len(str3))
 
 ### Post Test
 
-### Post Test
-
 1. What is the output of the following code?[A]
    class customer:
    def**init**(self,id):
@@ -142,7 +137,6 @@ print(len(str3))
    id="2010"
    obj=customer(2567)
    print(obj.id)
-
       <br>
       A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;. 2567
       <br>
@@ -154,7 +148,7 @@ print(len(str3))
       <br>
       <p id = "p1"></p>
       <br>
-   2.What is the output of following Python program?[B]
+2. What is the output of following Python program?[B]
    text='Python is high-level programming language'
    words=text.split()
    l=len(words)
@@ -171,23 +165,22 @@ print(len(str3))
       <p id = "p2"></p>
       <br>
 
-3.2What is the output when following code is executed?[C]
-str1="virtualpythonlab"
-print(str1[6::-2])
+3. What is the output when following code is executed?[C]
+   str1="virtualpythonlab"
+   print(str1[6::-2])
+   <br>
+   A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp;pylab
+   <br>
+   B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; lautriv
+   <br>
+   C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; lurv
+   <br>
+   D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp;pati
+   <br><br>
+   <p id = "p4"></p>
+   <br>
 
-<br>
-A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp;pylab
-<br>
-B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; lautriv
-<br>
-C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; lurv
-<br>
-D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp;pati
-<br><br>
-<p id = "p4"></p>
-<br>
-
-4.  What is the output of the following code?[D]
+4. What is the output of the following code?[D]
     defchangement(str1):
     char=str1[0]
     str1=str1.replace(char,'&')
@@ -202,10 +195,9 @@ D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp;pati
     C. <input type="radio" name="but3" id="rb33" onclick="click3();">&nbsp;&his is &hes &tring
     <br>
     D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;this is &he s&tring
-
-        <br><br>
-        <p id = "p3"></p>
-        <br>
+    <br><br>
+    <p id = "p3"></p>
+    <br>
 
 ### References
 

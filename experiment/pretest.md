@@ -4,8 +4,7 @@
    str1="Virtual PythonLab"
    str1[3]='s'
    print(str1)
-
- <br>
+   <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;Virtual Python Lab
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;Virtual
@@ -16,11 +15,11 @@
                         <br>
                         <p id = "p1"></p>
                         <br>
- 2. What is the output of given string??
- str1="Virtual"
-str2="Python"
-str3=str1+str2
-print(len(str3))
+2. What is the output of given string??
+   str1="Virtual"
+   str2="Python"
+   str3=str1+str2
+   print(len(str3))
                         <br>
                         A. <input type="radio" name="but2" id="rb21" onclick="click2();">&nbsp;10
                         <br>
@@ -46,19 +45,19 @@ print(len(str3))
                         <p id = "p4"></p>
                         <br>
 4. What is th output of "virtual"+1+2+"python"
-<br>
+                        <br>
                         A. <input type="radio" name="but3" id="rb31" onclick="click3();">&nbsp;vitual3python
                         <br>
                         B. <input type="radio" name="but3" id="rb32" onclick="click3();">&nbsp;Error
                         <br>
                         C. <input type="radio" name="but3" id="rb33" onclick="click3();">&nbsp;virtual12python
- <br>
+                        <br>
                         D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;virtualpython
                          <br><br>
                         <p id = "p3"></p>
                         <br>
 5. 5 If y="123"what will be the the return type of type(y)?
- <br>
+                        <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;str
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;int

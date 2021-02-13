@@ -90,10 +90,10 @@
 
   const myQuestions = [
     {
-      question: "What is the output of the following code?[C]
-str1="Virtual PythonLab"
-str1[3]= 's'
-print(str1)
+      question: "What is the output of the following code?[C]\
+str1='Virtual PythonLab'\
+str1[3]= 's'\
+print(str1)\
 ? ",  
 ///// Write the question inside double quotes
       answers: {
@@ -106,11 +106,11 @@ print(str1)
     },
 
   {
-    question: " What is the Output of the given string "
-  str1="Virtual"
-str2="Python"
-str3=str1 + str2
-print(len(str3)),  ///// Write the question inside double quotes
+    question: " What is the Output of the given string \
+  str1='Virtual'\
+str2='Python'\
+str3=str1 + str2\
+print(len(str3))",  ///// Write the question inside double quotes
   answers: {
   a: "10 ",                  ///// Write the option 1 inside double quotes
     b: "11",                  ///// Write the option 2 inside double quotes
@@ -135,9 +135,9 @@ correctAnswer: "d"                ///// Write the correct option inside double q
 
 
 {
-  question: "What is the output of "virtual"+1+2+"python"?",
+  question: "What is the output of 'virtual'+1+2+'python'?",
     answers: {
-    a: "vitual3python
+    a: "vitual3python"
       ,
       b: "Error",
         c: "virtual12python",
@@ -146,8 +146,7 @@ correctAnswer: "d"                ///// Write the correct option inside double q
   correctAnswer: "b"
 },
 {
-  question: "5 If y="123" what will be the the return type of type(y)?
-  ",
+  question: "5 If y='123' what will be the the return type of type(y)?",
   answers: {
     a: str,
       b: "int",
@@ -157,7 +156,7 @@ correctAnswer: "d"                ///// Write the correct option inside double q
   correctAnswer: "d"
 },
 
-;
+  ];
 
 
 

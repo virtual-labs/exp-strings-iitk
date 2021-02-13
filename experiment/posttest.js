@@ -90,13 +90,13 @@
 
   const myQuestions = [
     {
-      question: "What is the output of the following code?[A]
-class customer:
-      def__init__(self, id):
-        self.id = str(id)
-id="2010"
-obj=customer(2567)
-print(obj.id)
+      question: "What is the output of the following code?[A]\
+class customer:\
+      def__init__(self, id):\
+        self.id = str(id)\
+id='2010'\
+obj=customer(2567)\
+print(obj.id)\
       ", 
  ///// Write the question inside double quotes
       answers: {
@@ -109,12 +109,11 @@ print(obj.id)
     },
 
 {
-  question: "What is the output when following code is executed?
-str1="virtualpythonla",
+  question: "What is the output when following code is executed?\
+str1='virtualpythonla'",
   ///// Write the question inside double quotes
   answers: {
-    a: " pylab
-  ",
+    a: " pylab",
   ///// Write the option 1 inside double quotes
   b: "lautriv",                  ///// Write the option 2 inside double quotes
     c: "lurv",                  ///// Write the option 3 inside double quotes
@@ -125,12 +124,11 @@ str1="virtualpythonla",
   ///// this line
 
   {
-    question: "What is the output of following Python program?
-text='Python is high-level programming language'
-words=text.split()
-l=len(words)
-print('Number of words of the text:%d'% l)
-
+    question: "What is the output of following Python program?\
+text='Python is high-level programming language'\
+words=text.split()\
+l=len(words)\
+print('Number of words of the text:%d'% l)\
 ",
 answers: {
   a: " Error",
@@ -142,20 +140,20 @@ correctAnswer: "b"
 },
 
 {
-  question: "What is the output of the following code?[D]
-  def changement(str1):
-  char = str1[0]
-  str1 = str1.replace(char, '&')
-  str1 = char + str1[1:]
-  returnstr1
-  print(changement('this is the string'))
+  question: "What is the output of the following code?[D]\
+  def changement(str1):\
+  char = str1[0]\
+  str1 = str1.replace(char, '&')\
+  str1 = char + str1[1:]\
+  returnstr1\
+  print(changement('this is the string'))\
   ",
   answers: {
     a: "Syntax Error",
       b: "this is the string",
         c: ".&his is &he s&tring",
           d: "this is &he s&tring"
-    "
+    
   },
   correctAnswer: "d"
 },

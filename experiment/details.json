@@ -1,53 +1,46 @@
 {
 
-  "details": [
-      {
-     "Experiment": "Strings",     
-     "Lab": "Python Lab",               
-     "Discipline": "Computer Science",				 
-     "Technology": "Python"         
-      }
-  ],
+   "details": [
+       {
+			"Experiment": "String",        // Write your experiment name inside the quotes      
+			"Lab": "Python Programming Lab",               // Write your lab name inside the quotes
+			"Discipline": "Computer Science",				    // Write discipline name to which experimet belongs inside the quotes
+			"Technology": "Python"                          // Write technologies used inside the quotes
+       }
+   ],
 
-  "developer": [
-      {       
-     "Developer": "Dr. Kantesh Balani",         
-     "Institute": "Indian Institute of Technology, Kanpur",         
-     "InstituteAcronym": "IITK"   
-      }
-  ],
+   "developer": [
+       {       
+      "Developer": "Dr. Aparna Dixit",                                // Write the name of the developer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+      "InstituteAcronym": "P.S.I.T."                             // Write acronym of the institute inside the quotes
+       }
+   ],
 
-  "contributer": [
-      {       
-     "Contributer": "Dr. Aparna Dixit",             
-     "Institute": "Pranveer Singh Institute of Technology",               
-     "InstituteAcronym": "PSIT"         
-      },
+   "contributer": [
+       {       
+			"Contributer": "Yash Srivastava",                       // Write the name of the first contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
 
-      {       
-        "Contributer": "Yash Srivastava",             
-        "Institute": "Pranveer Singh Institute of Technology",               
-        "InstituteAcronym": "PSIT"         
-      },
+       {       
+			"Contributer": "Pawan Yadav",                     // Write the name of the second contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
 
-      {       
-        "Contributer": "Pawan Kumar Yadav",             
-        "Institute": "Pranveer Singh Institute of Technology",               
-        "InstituteAcronym": "PSIT"         
-      },
+       {       
+			"Contributer": "Sumit Yadav",                     // Write the name of the third contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
 
-      {       
-        "Contributer": "Suryansh Tripathi",             
-        "Institute": "Pranveer Singh Institute of Technology",               
-        "InstituteAcronym": "PSIT"         
-      },
-
-      {       
-        "Contributer": "Sumit Yadav",             
-        "Institute": "Pranveer Singh Institute of Technology",               
-        "InstituteAcronym": "PSIT"         
-      }
-  ]
+       {       
+			"Contributer": "Suryansh Tripathi",                  // Write the name of the fourth contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       }
+   ]
 
 }
-
