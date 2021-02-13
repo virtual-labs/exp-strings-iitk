@@ -138,7 +138,7 @@
     {
       question: "5 If y='123' what will be the the return type of type(y)?",
       answers: {
-        a: str,
+        a: "str",
           b: "int",
             c: "bool",
               d: "String"
