@@ -1,16 +1,37 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "What is the output of the following code?[A]class customer:      def__init__(self, id):        self.id = str(id)id='2010'obj=customer(2567)print(obj.id)      ",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "2567",
+		"b": "Error",
+		"c": "2010",
+		"d": "None"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "What is the output when following code is executed?str1='virtualpythonla'",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": " pylab",
+		"b": "lautriv",
+		"c": "lurv",
+		"d": "pati"
 	},
 	"correctAnswer": "c"
+}, {
+	"question": "What is the output of following Python program?text='Python is high-level programming language'words=text.split()l=len(words)print('Number of words of the text:%d'% l)",
+	"answers": {
+		"a": " Error",
+		"b": " 5",
+		"c": "6",
+		"d": " None of these "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the output of the following code?[D]  def changement(str1):  char = str1[0]  str1 = str1.replace(char, '&')  str1 = char + str1[1:]  returnstr1  print(changement('this is the string'))  ",
+	"answers": {
+		"a": "Syntax Error",
+		"b": "this is the string",
+		"c": ".&his is &he s&tring",
+		"d": "this is &he s&tring"
+	},
+	"correctAnswer": "d"
 }]
