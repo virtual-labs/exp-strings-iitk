@@ -62,11 +62,12 @@ Program<br><br>
 Solution<br><br>
 ello Wo<br><br>
 Characters between index number 1 and 8 are selected<br><br>
-Length of a string can be calculated using the len function.
+Length of a string can be calculated using the len function.<br><br>
 Syntax : len("string")<br>
 len("Hello World"<br>
 It will return 11.<br><br>
 Deleting / updating from a String:<br><br>
+In Python, Updation or deletion of characters from a String is not allowed. This will cause an error because item assignment or item deletion from a String is not supported<br><br>
 Program<br><br>
 <img src = "images/img10.PNG"><br><br>
 Output<br><br>
