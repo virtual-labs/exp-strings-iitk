@@ -1,5 +1,5 @@
 [{
-	"question": "What is the output of the following code?[C]str1='Virtual PythonLab'str1[3]= 's'print(str1)? ",
+	"question": "What is the output of the following code?<br>str1='Virtual PythonLab'str1[3]= 's'print(str1)? ",
 	"answers": {
 		"a": "Virtual Python Lab",
 		"b": "Virtual",
@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "c"
 }, {
-	"question": " What is the Output of the given string   str1='Virtual'str2='Python'str3=str1 + str2print(len(str3))",
+	"question": " What is the Output of the given string ?<br>  str1='Virtual'str2='Python'str3=str1 + str2print(len(str3))",
 	"answers": {
 		"a": "10 ",
 		"b": "11",
