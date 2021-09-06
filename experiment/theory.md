@@ -13,7 +13,7 @@ Program<br><br>
 Output<br><br>
 Hello<br><br>
 Program<br><br>
-<img src="images/img3.PNG">
+<img src="images/img3.PNG"><br><br>
 Output<br><br>
 Lorem ipsum dolor sit amet,<br>
 consectetur adipiscing elit,<br>
