@@ -24,7 +24,7 @@
 		"c": "-",
 		"d": "All of the mentioned"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "c"
 }, {
 	"question": "What is the output of 'virtual'+1+2+'python'?",
 	"answers": {
