@@ -1,0 +1,37 @@
+[{
+	"question": "What is the output of the following code?[A]class customer:   <br>   def__init__(self, id):        self.id = str(id)id='2010'obj=customer(2567)print(obj.id)      ",
+	"answers": {
+		"a": "2567",
+		"b": "Error",
+		"c": "2010",
+		"d": "None"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "what will be output of following code ? str1='helloworld'<br> str1[::-1]",
+	"answers": {
+		"a": "dlrowolleh",
+		"b": "hello",
+		"c": "world",
+		"d": "helloworld"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "What is the output of following Python program?<br>text='Python is high-level programming language'words=text.split()l=len(words)print('Number of words of the text:%d'% l)",
+	"answers": {
+		"a": " Error",
+		"b": " 5",
+		"c": "6",
+		"d": " None of these "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the output of the following code?<br>  def changement(str1):  char = str1[0]  str1 = str1.replace(char, '&')  str1 = char + str1[1:]  returnstr1  print(changement('this is the string'))  ",
+	"answers": {
+		"a": "Syntax Error",
+		"b": "this is the string",
+		"c": ".&his is &he s&tring",
+		"d": "this is &he s&tring"
+	},
+	"correctAnswer": "d"
+}]

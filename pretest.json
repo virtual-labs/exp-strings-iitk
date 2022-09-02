@@ -1,0 +1,46 @@
+[{
+	"question": "What is the output of the following code?<br>str1='Virtual PythonLab'str1[3]= 's'print(str1)? ",
+	"answers": {
+		"a": "Virtual Python Lab",
+		"b": "Virtual",
+		"c": "Error",
+		"d": "Virsual Python Lab"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": " What is the Output of the given string ?<br>  str1='Virtual'str2='Python'str3=str1 + str2print(len(str3))",
+	"answers": {
+		"a": "10 ",
+		"b": "11",
+		"c": "12",
+		"d": "13"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What arithmetic operators cannot be used with strings?",
+	"answers": {
+		"a": "+",
+		"b": "*",
+		"c": "-",
+		"d": "All of the mentioned"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is the output of 'virtual'+1+2+'python'?",
+	"answers": {
+		"a": "vitual3python",
+		"b": "Error",
+		"c": "virtual12python",
+		"d": "virtualpython"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "5 If y='123' what will be the the return type of type(y)?",
+	"answers": {
+		"a": "str",
+		"b": "int",
+		"c": "bool",
+		"d": "String"
+	},
+	"correctAnswer": "d"
+}]
