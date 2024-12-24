@@ -1,6 +1,6 @@
 [{
 	"question": "What is the output of the following code?",
-	"code": "class customer:\n    def __init__(self, id):\n        self.id = str(id)\nid = '2010'\nobj = customer(2567)\nprint(obj.id)",
+	"image": "images/que1.JPG",
 	"answers": {
 	  "a": "2567",
 	  "b": "Error",
