@@ -1,0 +1,37 @@
+[{
+	"question": "What is the output of the following code <br><img src='images/que1.PNG'>",
+	"answers": {
+	  "a": "2567",
+	  "b": "Error",
+	  "c": "2010",
+	  "d": "None"
+	},  
+	"correctAnswer": "a"
+}, {
+	"question": "What is the output when the following code is executed? <br>str1='virtualpythonla'",
+	"answers": {
+		"a": "dlrowolleh",
+		"b": "hello",
+		"c": "world",
+		"d": "helloworld"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "What is the output of the following Python program <br><img src='images/que3.PNG'>",
+  "answers":  {
+		"a": " Error",
+		"b": " 5",
+		"c": "6",
+		"d": " None of these "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the output of the following code <br><img src='images/que4.PNG'> ",
+	"answers": {
+		"a": "Syntax Error",
+		"b": "this is the string",
+		"c": ".&his is &he s&tring",
+		"d": "this is &he s&tring"
+	},
+	"correctAnswer": "d"
+}]
