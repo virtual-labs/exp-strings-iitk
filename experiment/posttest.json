@@ -2,26 +2,26 @@
 	"question": "What is the output of the following code?",
 	"code": "class customer:\n    def __init__(self, id):\n        self.id = str(id)\nid = '2010'\nobj = customer(2567)\nprint(obj.id)",
 	"answers": {
-	   "a": "2567",
-	   "b": "Error",
-	   "c": "2010",
-	   "d": "None"
+	  "a": "2567",
+	  "b": "Error",
+	  "c": "2010",
+	  "d": "None"
 	},  
 	"correctAnswer": "a"
 }, {
 	"question": "What is the output when the following code is executed?",
-    "code": "str1 = 'virtualpythonla'\nprint(str1)",
+  "code": "str1 = 'virtualpythonla'\nprint(str1)",
 	"answers": {
-		"a": " pylab",
-		"b": "lautriv",
-		"c": "lurv",
-		"d": "pati"
+		"a": "dlrowolleh",
+		"b": "hello",
+		"c": "world",
+		"d": "helloworld"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 }, {
 	"question": "What is the output of the following Python program?",
-    "code": "text = 'Python is high-level programming language'\nwords = text.split()\nl = len(words)\nprint('Number of words of the text: %d' % l)",
-    "answers":  {
+  "code": "text = 'Python is high-level programming language'\nwords = text.split()\nl = len(words)\nprint('Number of words of the text: %d' % l)",
+  "answers":  {
 		"a": " Error",
 		"b": " 5",
 		"c": "6",
