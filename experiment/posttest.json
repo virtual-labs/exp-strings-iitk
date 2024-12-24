@@ -17,7 +17,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "What is the output of the following Python program? <br>text='Python is high-level programming language'words=text.split()l=len(words)print('Number of words of the text:%d'% l)",
+	"question": "What is the output of the following Python program <br><img src='images/que3.PNG'>",
   "answers":  {
 		"a": " Error",
 		"b": " 5",
@@ -26,7 +26,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "What is the output of the following code? <br>  def changement(str1):  char = str1[0]  str1 = str1.replace(char, '&')  str1 = char + str1[1:]  returnstr1  print(changement('this is the string'))  ",
+	"question": "What is the output of the following code <br><img src='images/que4.PNG'> ",
 	"answers": {
 		"a": "Syntax Error",
 		"b": "this is the string",
