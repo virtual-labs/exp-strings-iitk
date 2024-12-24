@@ -1,6 +1,5 @@
 [{
-	"question": "What is the output of the following code?",
-	"image": "images/que1.JPG",
+	"question": "What is the output of the following code? [A] class customer: def__init__(self, id): self.id = str(id)id='2010'obj=customer(2567)print(obj.id)",
 	"answers": {
 	  "a": "2567",
 	  "b": "Error",
@@ -9,8 +8,7 @@
 	},  
 	"correctAnswer": "a"
 }, {
-	"question": "What is the output when the following code is executed?",
-  "code": "str1 = 'virtualpythonla'\nprint(str1)",
+	"question": "What is the output when the following code is executed? <br>str1='virtualpythonla'",
 	"answers": {
 		"a": "dlrowolleh",
 		"b": "hello",
@@ -19,8 +17,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "What is the output of the following Python program?",
-  "code": "text = 'Python is high-level programming language'\nwords = text.split()\nl = len(words)\nprint('Number of words of the text: %d' % l)",
+	"question": "What is the output of the following Python program? <br>text='Python is high-level programming language'words=text.split()l=len(words)print('Number of words of the text:%d'% l)",
   "answers":  {
 		"a": " Error",
 		"b": " 5",
@@ -29,8 +26,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "What is the output of the following code?",
-	"code": "def changement(str1):\n    char = str1[0]\n    str1 = str1.replace(char, '&')\n    str1 = char + str1[1:]\n    return str1\n\nprint(changement('this is the string'))",
+	"question": "What is the output of the following code? <br>  def changement(str1):  char = str1[0]  str1 = str1.replace(char, '&')  str1 = char + str1[1:]  returnstr1  print(changement('this is the string'))  ",
 	"answers": {
 		"a": "Syntax Error",
 		"b": "this is the string",
