@@ -1,5 +1,5 @@
 [{
-	"question": "What is the output of the following code? [A] class customer: def__init__(self, id): self.id = str(id)id='2010'obj=customer(2567)print(obj.id)",
+	"question": "What is the output of the following code <br><img src='images/que1.PNG>'",
 	"answers": {
 	  "a": "2567",
 	  "b": "Error",
