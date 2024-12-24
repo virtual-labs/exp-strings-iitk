@@ -1,5 +1,5 @@
 [{
-	"question": "What is the output of the following code <br><img src='images/que1.PNG>'",
+	"question": "What is the output of the following code <br><img src='images/que1.PNG'>",
 	"answers": {
 	  "a": "2567",
 	  "b": "Error",
