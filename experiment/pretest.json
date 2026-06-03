@@ -1,5 +1,5 @@
 [{
-	"question": "What is the output of the following code? <br>str1='Virtual PythonLab' <br> str1[3]= 's' <br> print(str1)? ",
+	"question": "What is the output of the following code? <br> str1='Virtual PythonLab' <br> str1[3]= 's' <br> print(str1)? ",
 	"answers": {
 		"a": "Virtual Python Lab",
 		"b": "Virtual",
