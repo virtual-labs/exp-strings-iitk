@@ -73,7 +73,4 @@ Program<br><br>
 Output<br><br>
 Initial String:<br>
 Hello, I'm a coder<br>
-Traceback (most recent call last):<br>
-  File "e:\VLAB\python\programs\a.py", line 51, in <module><br>
-    String1[2] = 'p'<br>
 TypeError: 'str' object does not support item assignment
