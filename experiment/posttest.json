@@ -8,9 +8,9 @@
 	},  
 	"correctAnswer": "a"
 }, {
-	"question": "What is the output when the following code is executed? <br>str1='virtualpythonla'",
+	"question": "What is the output when the following code is executed? <br>str1='virtualpythonla' <br> print(str1[0:7])",
 	"answers": {
-		"a": "dlrowolleh",
+		"a": "virtual",
 		"b": "hello",
 		"c": "world",
 		"d": "helloworld"
